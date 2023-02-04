@@ -1,0 +1,13 @@
+config==0.5.1
+func==0.12
+matplotlib==3.6.3
+natsort==8.2.0
+numpy==1.23.5
+pandas==1.5.3
+Pillow==9.4.0
+scikit_learn==1.2.1
+seaborn==0.12.2
+torch==2.0.0.dev20230130
+torchvision==0.15.0.dev20230130
+tqdm==4.64.1
+wandb==0.13.9
